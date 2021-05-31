@@ -12,7 +12,7 @@ Features
 
 
 
-.. image:: media/intro.jpg
+.. image:: media/intro.JPG
    :width: 700
    :align: center
 

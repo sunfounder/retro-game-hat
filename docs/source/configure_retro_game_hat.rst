@@ -5,7 +5,7 @@ After you install the button driver and restart, RetroPie needs you to perform b
 
 Here we provide a configuration method, you can refer to this method to configure your RetroPie buttons.
 
-.. image:: media/set.jpg
+.. image:: media/set.JPG
    :width: 700
    :align: center
 

@@ -1,7 +1,7 @@
-Retro Game Hat
+Retro Game HAT
 ===================
 
-Abuout the Retro Game Hat
+Abuout the Retro Game HAT
 ---------------------------------
 
 
@@ -12,7 +12,6 @@ Equipped with 800*480 high-resolution screen and two 8ohm 4w stereo speakers, th
 It integrates battery charging circuit, powered by 18650 lithium battery (not included), you can play anytime and anywhere.
 
 In addition, it is equipped with HDMI and Micro HDMI connectors, which can be compatible with almost all Raspberry Pi versions.
-
 
 If you want to learn another projects which we don’t have, please feel free to send Email and we will update to our online tutorials as soon as possible, any suggestions are welcomed.
 
@@ -25,6 +24,7 @@ Here is the Email: cs@sunfounder.com.
     assemble
     features
     retropie
+
 
 Copyright Notice
 ------------------

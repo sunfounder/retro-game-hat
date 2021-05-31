@@ -5,7 +5,14 @@ Abuout the Retro Game Hat
 ---------------------------------
 
 
-Retro Game HAT is a casual game machine with a Raspberry Pi as the main control board and a shell that simulates a gamepad. Compared with traditional game consoles, Retro Game HAT is equipped with 800*480 high-resolution display, the game screen is clearer, and is equipped with 2W stereo speakers, high picture quality, high sound quality, stable operation, giving you an excellent gaming experience .
+Retro Game HAT is a DIY handheld game console based on Raspberry Pi.
+
+Equipped with 800*480 high-resolution screen and two 8ohm 4w stereo speakers, through simple assembly, you can have a retro game console.
+
+It integrates battery charging circuit, powered by 18650 lithium battery (not included), you can play anytime and anywhere.
+
+In addition, it is equipped with HDMI and Micro HDMI connectors, which can be compatible with almost all Raspberry Pi versions.
+
 
 If you want to learn another projects which we don’t have, please feel free to send Email and we will update to our online tutorials as soon as possible, any suggestions are welcomed.
 

@@ -9,6 +9,12 @@ Insert the SD card into Retro Game HAT, turn the power switch to ON.
     :width: 600
     :align: center
 
+.. note::
+    When using it for the first time, you need to insert a 5V/2A Type-C into the Retro Game HAT to activate the battery power supply function.
+    
+    You can use the battery to supply power later, and this Type-C cable can be used for charging.
+
+
 Get the IP Address
 -----------------------
 
@@ -133,7 +139,7 @@ Install Key Drive
 
 When you enter the RetroPie terminal via ssh, enter the following command to download the source code of the button driver.
 
-.. code-block:: python
+.. code-block::
 
     git clone https://github.com/sunfounder/retro-game-hat
 
@@ -141,12 +147,12 @@ When you enter the RetroPie terminal via ssh, enter the following command to dow
 
 Install the button driver.
 
-.. code-block:: python
+.. code-block::
 
     sudo python3 install.py
 
 After the installation is complete, it is prompted whether to restart, enter Y to confirm.
 
-.. code-block:: python
+.. code-block::
 
     Installation finished, do you want to reboot? (y/N) Y
